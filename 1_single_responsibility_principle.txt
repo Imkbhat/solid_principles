@@ -1,1 +1,18 @@
 
+# Single Responsibility Principle.
+
+Every Software Component should have one and only one responsibility.
+Component can be a class, method or a module.
+Real time ex : Swiss army knife, violates SRP, as it has many functionalities.
+Best Ex : Normal life, one Knife one purpose.
+
+# Cohesion
+Cohesion is the degree to which various parts of a software component are related.
+Higher Cohesion helps attain better adherance to the SRP.
+
+# Coupling
+Coupling is level of interdependancy between various software components.
+  
+# Reason to Change
+Every Software Component should have one and only one reason to change.
+  
